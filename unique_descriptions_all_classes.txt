@@ -1,0 +1,266 @@
+--- Class: Adenomatoid Odontogenic Tumor ---
+- cribriform pattern, fibrous stroma, duct-like structures
+- cribriform pattern, fibrous stroma, duct-like structures, whorled or plexiform arrangement of epithelial cells
+- duct-like structures, cuboidal to columnar epithelial lining, rosette-like formations, whorled or plexiform arrangement of spindle-shaped epithelial cells
+- duct-like structures, cuboidal to columnar epithelial lining, rosette-like formations, whorled or plexiform arrangement of spindle-shaped epithelial cells, amorphous eosinophilic material
+- duct-like structures, cuboidal to columnar epithelial lining, rosette-like formations, whorled or plexiform arrangement of spindle-shaped epithelial cells, fibrous stroma
+- duct-like structures, cuboidal to columnar epithelial lining, rosette-like formations, whorled or plexiform arrangement of spindle-shaped epithelial cells, fibrous stroma, convoluted tubules
+- duct-like structures, cuboidal to columnar epithelial lining, rosette-like formations, whorled or plexiform arrangement of spindle-shaped epithelial cells, fibrous stroma, convoluted tubules, amorphous eosinophilic material
+- duct-like structures, cuboidal to columnar epithelial lining, rosette-like formations, whorled or plexiform arrangement of spindle-shaped epithelial cells, fibrous stroma, convoluted tubules, amorphous eosinophilic material, calcification
+- encapsulated lesion, odontogenic epithelium
+- encapsulated lesion, odontogenic epithelium, cribriform pattern, fibrous stroma, duct-like structures
+- fibrous stroma, duct-like structures, cuboidal to columnar epithelial lining, whorled or plexiform arrangement of spindle-shaped epithelial cells
+- rosette-like formations, whorled or plexiform arrangement of spindle-shaped epithelial cells, amorphous eosinophilic material
+
+--- Class: Ameloblastic Fibroma ---
+- epithelial and mesenchymal components, islands and cords of odontogenic epithelium, no dental hard tissues
+- epithelial and mesenchymal components, islands and cords of odontogenic epithelium, no dental hard tissues, cell rich ectomesenchyme
+- epithelial and mesenchymal components, islands and cords of odontogenic epithelium, non-encapsulated
+- islands and cords of odontogenic epithelium, peripheral palisading, stellate reticulum-like cells, no dental hard tissues, cell rich ectomesenchyme
+
+--- Class: Calcifying Odontogenic Cyst ---
+- ameloblast-like cells, overlying stellate reticulum-like cells, ghost cells
+- ameloblast-like cells, overlying stellate reticulum-like cells, ghost cells, fibrous connective tissue wall
+- basal ameloblast-like cells, overlying stellate reticulum-like cells, ghost cells, calcifications, fibrous connective tissue wall
+- basal ameloblast-like cells, overlying stellate reticulum-like cells, ghost cells, fibrous connective tissue wall
+- calcifications
+- calcifications, fibrous connective tissue wall
+- connective tissue wall, dentinoid material
+- cuboidal or columnar cells basal cell, overlying stellate reticulum-like cells, ghost cells, calcifications
+- cuboidal or columnar cells basal cell, overlying stellate reticulum-like cells, ghost cells, calcifications, fibrous connective tissue wall
+- cuboidal or columnar cells basal cell, overlying stellate reticulum-like cells, ghost cells, fibrous connective tissue wall
+- cystic cavities
+- cystic cavity, cystic wall
+- cystic cavity, ghost cells
+- cystic lining epithelium, ghost cell keratinization
+- cystic lining epithelium, ghost cells, calcifications
+- cystic lining epithelium, ghost cells, calcifications, fibrous connective tissue wall
+- cystic lining epithelium, ghost cells, fibrous connective tissue wall
+- cystic space, epithelial lining
+- cystic spaces, cystic lining, calcified tissue
+- dentinoid material, calcification
+- dentinoid material, calcification, odontogenic nests
+- ghost cell keratinization, calcifications
+- ghost cells
+- ghost cells, abberant keratinization
+- ghost cells, calcifications
+- ghost cells, calcifications, dentinoids
+- ghost cells, calcifications, fibrous connective tissue
+- ghost cells, dentinoids
+- ghost cells, stellate reticulum-like cells
+
+--- Class: Glandular Odontogenic Cyst ---
+- cystic space,  non-keratinizing epithelium, mucous cells, ciliated cells, hobnail cells
+- cystic space, mucin pool, non-keratinizing epithelium,  epithelial whorls, microcysts, fibrous connective tissue wall
+- cystic space, mucin pooling, non-keratinizing epithelium, epithelial thickening
+- cystic space, mucin pooling, non-keratinizing epithelium, epithelial thickening, bone
+- cystic space, mucin pooling, non-keratinizing epithelium, epithelial thickening, epithelial whorls
+- cystic space, mucin pooling, non-keratinizing epithelium, epithelial thickening, fibrous connective tissue wall
+- cystic space, mucin pooling, non-keratinizing epithelium, epithelial thickening, hobnail cells
+- cystic space, mucin pooling, non-keratinizing epithelium, hobnail cells, epithelial whorls
+- cystic space, mucin pooling, non-keratinizing epithelium, mucous cells, hobnail cells, epithelial whorls
+- cystic space, non-keratinizing epithelium, epithelial thickening, fibrous connective tissue wall
+- cystic space, non-keratinizing epithelium, epithelial thickening, fibrous connective tissue wall, bone
+- cystic space, non-keratinizing epithelium, epithelial thickening, fibrous connective tissue wall, microcysts
+- cystic space, non-keratinizing epithelium, epithelial thickening, hobnail cells
+- cystic space, non-keratinizing epithelium, epithelial thickening, mucous cells, fibrous connective tissue wall, microcysts
+- cystic space, non-keratinizing epithelium, epithelial whorls
+- cystic space, non-keratinizing epithelium, epithelial whorls, fibrous connective tissue wall, bone
+- cystic space, non-keratinizing epithelium, hobnail cells, epithelial whorl
+- cystic space, non-keratinizing epithelium, hobnail cells, epithelial whorls
+- cystic space, non-keratinizing epithelium, hobnail cells, epithelial whorls, microcysts
+- cystic space, non-keratinizing epithelium, mucous cells, ciliated cells, hobnail cells, fibrous connective tissue wall
+- cystic space, non-keratinizing epithelium, mucous cells, hobnail cells, epithelial whorls
+- cystic space, non-keratinizing epithelium, mucous cells, hobnail cells, epithelial whorls, microcysts
+- cystic spaces,  non-keratinizing epithelium, ciliated cells, hobnail cells, epithelial whorls
+- cystic spaces,  non-keratinizing epithelium, epithelial whorls
+- cystic spaces,  non-keratinizing epithelium, epithelial whorls, hobnail cells
+- cystic spaces,  non-keratinizing epithelium, epithelial whorls, mucin pooling
+- cystic spaces,  non-keratinizing epithelium, mucous cells, ciliated cells
+- cystic spaces,  non-keratinizing epithelium, mucous cells, ciliated cells, hobnail cells, epithelial whorls
+- cystic spaces, microcysts, non-keratinizing epithelium, bone
+- cystic spaces, mucin pooling, microcysts, non-keratinizing epithelium, bone
+- cystic spaces, mucin pooling, non-keratinizing epithelium,  epithelial whorls, microcysts, fibrous connective tissue wall
+- cystic spaces, mucin pooling, non-keratinizing epithelium, bone
+- cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial plaque
+- cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial plaque, bone
+- cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial plaque, microcysts, bone
+- cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial plaque, microcysts, connective tissue wall, bone
+- cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial thickening
+- cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial thickening, mucous cells
+- cystic spaces, mucin pooling, non-keratinizing epithelium, hobnail cells, epithelial whorls
+- cystic spaces, mucin pooling, non-keratinizing epithelium, mucous cells, ciliated cells, hobnail cells, epithelial whorls
+- cystic spaces, mucin pooling, non-keratinizing epithelium, mucous cells, ciliated cells, hobnail cells, fibrous connective tissue wall
+- cystic spaces, non-keratinizing epithelium,  epithelial whorls, microcysts, fibrous connective tissue wall
+- cystic spaces, non-keratinizing epithelium, mucous cells, ciliated cells, hobnail cells, epithelial whorls
+- cystic spaces, non-keratinizing epithelium, mucous cells, ciliated cells, hobnail cells, epithelial whorls, microcysts, fibrous connective tissue wall
+- cystic spaces, non-keratinizing epithelium, mucous cells, ciliated cells, hobnail cells, fibrous connective tissue wall
+- cystic spaces, non-keratinizing epithelium, mucous cells, hobnail cells, epithelial whorls, microcysts
+- multiple cystic spaces, microcysts, mucin pooling, epithelial lining, epithelial thickening
+- multiple cystic spaces, mucin pooling, bone
+- multiple cystic spaces, mucin pooling, epithelial lining, bone
+- multiple cystic spaces, mucin pooling, epithelial lining, epithelial thickening
+- multiple cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial thickening
+- multiple cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial thickening, epithelial whorls
+- multiple cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial thickening, epithelial whorls, bone
+- multiple cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial thickening, epithelial whorls, microcysts
+- multiple cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial thickening, epithelial whorls, microcysts, fibrous connective tissue wall
+- multiple cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial thickening, epithelial whorls, microcysts, mucous cells
+- multiple cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial thickening, microcysts
+- multiple cystic spaces, mucin pooling, non-keratinizing epithelium, epithelial thickening, microcysts, bone
+- multiple cystic spaces, non-keratinizing epithelium, epithelial thickening
+- multiple cystic spaces, non-keratinizing epithelium, epithelial thickening, bone
+- multiple cystic spaces, non-keratinizing epithelium, epithelial thickening, epithelial whorls
+- multiple cystic spaces, non-keratinizing epithelium, epithelial thickening, epithelial whorls, bone
+- multiple cystic spaces, non-keratinizing epithelium, epithelial thickening, epithelial whorls, microcysts
+- multiple cystic spaces, non-keratinizing epithelium, variable epithelial thickening, epithelial whorls, microcysts
+- non-keratinizing epithelium, epithelial plaque, microcysts, bone
+
+--- Class: Odontoma (Complex) ---
+- disorganized dental tissues
+- disorganized dental tissues (enamel, dentin, cementum and pulp)
+- disorganized dental tissues, fibrous connective tissue stroma
+- disorganized dental tissues, lobulated architecture
+- disorganized dental tissues, lobulated architecture, ameloblast-like cells
+- disorganized enamel matrix, dentin, cementum and pulp tissues
+
+--- Class: Odontoma (Compound) ---
+- tooth-like structures, organized tissues, enamel space, dentin,  cementum
+- tooth-like structures, organized tissues, enamel space, dentin, cementum
+- tooth-like structures, organized tissues, enamel space, dentin, pulp tissue, cementum
+- tooth-like structures, organized tissues, enamel space, dentin, pulp tissue, cementum, fibrous connective tissue stroma
+- tooth-like structures, organized tissues, enamel space, dentin, pulp tissue, cementum, ghost cells
+
+--- Class: Ameloblastoma (Plexiform) ---
+- anastomosing epithelial strands or branching epithelial cords, loose connective tissue stroma
+- anastomosing epithelial strands or branching epithelial cords, peripheral palisaded columnar or cuboidal cells with reverse nuclear polarity (ameloblast-like cells), loosely arranged central cells (stellate reticulum-like cells), loose connective tissue stroma
+- loose connective tissue stroma
+- network-like pattern, anastomosing epithelial strands or branching epithelial cords, loose connective tissue stroma
+
+--- Class: Odontogenic Keratocyst ---
+- cavities lined by epithelium
+- cavities, keratinized epithelial lining, fibrous cyst wall
+- cavities, keratinized epithelial lining, hyperchromatic basal layer, fibrous cyst wall, flat separated interface
+- cavities, keratinized epithelial lining, hyperchromatic basal layer, inflammed fibrous cyst wall, flat separated interface
+- cavities, keratinized epithelial lining, inflammed fibrous cyst wall
+- cavities, keratinized epithelial lining, inflammed fibrous cyst wall, flat interface
+- cavities, keratinized epithelial lining, inflammed fibrous cyst wall, flat separated interface
+- cavities, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, flat interface
+- cavities, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, flat interface, inflammed cyst wall
+- cavities, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, separated flat interface, dystrophic calcification
+- cavity, keratinized epithelial lining, fibrous cyst wall
+- cavity, keratinized epithelial lining, palisaded hyperchromatic basal layer, fibrous cyst wall
+- cavity, keratinized epithelial lining, palisaded hyperchromatic basal layer, inflammed fibrous cyst wall
+- cavity, keratinized epithelial lining, palisaded hyperchromatic basal layer, inflammed fibrous cyst wall, separation
+- cavity, thick epithelium, palisaded basal layer, parakeratinized corrugated surface, flat interface
+- cavity, thick epithelium, palisaded basal layer, parakeratinized corrugated surface, inflammed flat interface
+- cavity, thickened epithelium, palisaded basal layer, parakeratinized corrugated surface, no rete ridges, inflammation
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, flat interface
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, flat separated interface
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, no rete ridges
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, flat interface
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, inflammed flat interface
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, inflammed flat interface, rushton bodies
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, no rete ridges
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, no rete ridges, inflammation
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, no rete ridges, rushton bodies
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, separated flat interface
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, separation
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, separation, inflammation
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, satellite cyst, flat interface
+- cavity, thin epithelium (5–8 layers), palisaded basal layer, satellite cyst, no rete ridges
+- dystrophic calcification
+- inflammed cystic wall
+- keratin filled cavities, keratinized epithelial lining, hyperchromatic basal layer, inflammed fibrous cyst wall, flat separated interface
+- keratin filled cavities, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, flat interface
+- keratin filled cavity
+- keratin filled cavity, keratinized epithelial lining, fibrous cyst wall
+- keratin filled cavity, keratinized epithelial lining, palisaded hyperchromatic basal layer, fibrous cyst wall
+- keratin filled cavity, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, flat interface
+- multiple cavities lined by epithelium
+- parakeratin filled cavity, thin epithelium (5–8 layers), palisaded basal layer, parakeratinized corrugated surface, no rete ridges
+- parakeratin filled cavity, thin epithelium (5–8 layers), tomb stone appearance, parakeratinized corrugated surface, no rete ridges
+- satellite cyst, daughter cyst
+- separated epithelial lining
+
+--- Class: Radicular Cyst ---
+- cystic cavity, epithelial lining, granulation tissue, fibrous capsule
+- cystic cavity, epithelial lining, inflammed granulation tissue
+- cystic cavity, epithelial lining, inflammed granulation tissue, foam cells
+- cystic cavity, epithelial lining, inflammed granulation tissue, foam cells, cholestrol clefts, fibrous capsule
+- cystic cavity, epithelial lining, inflammed granulation tissue, foam cells, fibrous capsule
+- cystic cavity, non-keratinized stratified squamous epithelial lining, inflammed granulation tissue
+- cystic cavity, non-keratinized stratified squamous epithelial lining, inflammed granulation tissue, fibrous capsule
+- cystic cavity, non-keratinized stratified squamous epithelial lining, inflammed granulation tissue, foam cells
+- foam cells
+- foam cells, fibrous capsule
+- inflammed granulation tissue
+- inflammed granulation tissue, fibrous capsule
+- inflammed granulation tissue, foam cells
+- multiple cystic spaces, epithelial lining, connective tissue wall
+- non-keratinized stratified squamous epithelial lining, inflammed granulation tissue, fibrous capsule
+- non-keratinized stratified squamous epithelial lining, inflammed granulation tissue, foam cells
+- proliferating epithelium, cystic cavity, inflammed granulation tissue
+- proliferating epithelium, cystic cavity, inflammed granulation tissue, fibrous capsule
+- proliferating epithelium, cystic cavity, inflammed granulation tissue, foam cells
+- proliferating epithelium, cystic cavity, inflammed granulation tissue, rushton bodies
+- proliferating epithelium, cystic cavity, inflammed vascular granulation tissue
+- proliferating epithelium, inflammed granulation tissue
+- root resorption, connective tissue wall
+- root resorption, connective tissue wall, fibrous capsule
+- root resorption, connective tissue wall, non-keratinized stratified squamous epithelial lining
+- root resorption, connective tissue wall, proliferating epithelium
+- root resorption, cystic cavity, epithelial lining, granulation tissue, fibrous capsule
+- root resorption, cystic cavity, non-keratinized stratified squamous epithelial lining, inflammed granulation tissue
+- root resorption, cystic space, epithelial lining, connective tissue wall
+- root resorption, cystic space, epithelial lining, connective tissue wall, fibrous capsule
+- root resorption, granulation tissue
+- root resorption, inflammed granulation tissue, fibrous capsule
+- root resorption,inflammed granulation tissue
+
+--- Class: Calcifying Epithelial Odontogenic Tumor ---
+- amyloid-like material, calcifications
+- amyloid-like material, lesegang ring calcifications
+- fibrous connective tissue stroma, amyloid-like material, calcifications
+- fibrous connective tissue stroma, amyloid-like material, liesegang ring calcifications
+- fibrous connective tissue stroma, liesegang ring calcifications
+- liesegang ring calcifications, fibrous stroma
+- multiple epithelial nests and sheets, fibrous connective tissue stroma
+- multiple epithelial nests and sheets, fibrous connective tissue stroma, amyloid-like material
+- multiple epithelial nests and sheets, fibrous connective tissue stroma, amyloid-like material, bone
+- multiple epithelial nests and sheets, fibrous connective tissue stroma, amyloid-like material, calcifications
+- multiple epithelial nests and sheets, fibrous connective tissue stroma, amyloid-like material, calcifications, bone
+- multiple epithelial nests and sheets, fibrous connective tissue stroma, amyloid-like material, liesegang ring calcifications
+- multiple epithelial nests and sheets, fibrous connective tissue stroma, amyloid-like material, liesegang ring calcifications, bone
+- multiple epithelial nests and sheets, fibrous connective tissue stroma, bone
+- multiple nests and sheets of clear epithelial cells, fibrous connective tissue stroma
+- multiple nests and sheets of clear epithelial cells, fibrous connective tissue stroma, calcifications
+- multiple nests and sheets of epithelial cells and clear epithelail cells, amyloid-like material
+- multiple nests and sheets of epithelial cells and clear epithelail cells, amyloid-like material,  fibrous stroma
+- multiple nests and sheets of epithelial cells and clear epithelail cells, amyloid-like material, calcification
+- multiple nests and sheets of epithelial cells and clear epithelail cells, amyloid-like material, calcification, fibrous stroma
+- multiple nests and sheets of epithelial cells and clear epithelail cells, amyloid-like material, liesegang ring calcifications, fibrous stroma
+- multiple nests and sheets of epithelial cells, amyloid-like material, calcifications
+- polyhedral epithelial cells, clear cells,  nuclear pleomorphism, prominent intercellular bridges, amyloid-like material,  fibrous stroma
+- polyhedral epithelial cells, nuclear pleomorphism, clear cells, prominent intercellular bridges, amyloid-like material
+- polyhedral epithelial cells, nuclear pleomorphism, clear cells, prominent intercellular bridges, amyloid-like material,  fibrous stroma
+- polyhedral epithelial cells, nuclear pleomorphism, clear cells, prominent intercellular bridges, amyloid-like material, calcifications
+- polyhedral epithelial cells, nuclear pleomorphism, clear cells, prominent intercellular bridges, amyloid-like material, lesegang ring calcifications, fibrous stroma
+- polyhedral epithelial cells, nuclear pleomorphism, clear cells, prominent intercellular bridges, fibrous stroma
+- polyhedral epithelial cells, nuclear pleomorphism, prominent intercellular bridges, amyloid-like material
+- polyhedral epithelial cells, nuclear pleomorphism, prominent intercellular bridges, amyloid-like material,  fibrous stroma
+- polyhedral epithelial cells, nuclear pleomorphism, prominent intercellular bridges, amyloid-like material, fibrous stroma
+- polyhedral epithelial cells, nuclear pleomorphism, prominent intercellular bridges, amyloid-like material, lesegang ring calcifications
+- polyhedral epithelial cells, nuclear pleomorphism, prominent intercellular bridges, amyloid-like material, lesegang ring calcifications, fibrous stroma
+
+--- Class: Odontogenic Myxoma ---
+- no encapsulation, loose connective tissue,
+- stellate-shaped cells, spindle shaped cells, myxoid stroma, abundant ground substances, minimal collagen
+- stellate-shaped cells, spindle shaped cells, myxoid stroma, abundant ground substances, minimal collagen, bone
+
+--- Class: Squamous Odontogenic Tumor ---
+- islands of squamous epithelium, fibrous connective tissue stroma
+- islands of squamous epithelium, fibrous connective tissue stroma, well differentiated epithelium
+- islands of squamous epithelium, fibrous connective tissue stroma, well differentiated epithelium, flattened or cuboidal peripheral cells, microcysts, individual cell keratinization
+- islands of squamous epithelium, fibrous connective tissue stroma, well differentiated epithelium, flattened or cuboidal peripheral cells, microcysts, individual cell keratinization, minimal cellular atypia
+
